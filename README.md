@@ -2,7 +2,7 @@
 Este repositorio sera un almacen para los distintos datos que vaya creando para mi periodo de Residencias en Finkok
 
 # Git
-Previo a utilizar este repositorio recuerda tener instalado git (version: 2.52.0 o mas recientes) en tu equipo, usa el comando:
+Previo a utilizar este repositorio recuerda tener instalado git (version: 2.52.0 o mas recientes) en tu equipo, usa el comando: cancel
 
 apt-get install git
 
