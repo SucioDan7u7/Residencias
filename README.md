@@ -24,4 +24,4 @@ Django: 4.2.11
 
 Git: git version 2.43.0
 
-hola
+hola, si funciona?
