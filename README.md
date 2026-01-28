@@ -1,5 +1,5 @@
 # Residencias
-Este repositorio sera un almacen para los distintos datos que vaya creando para mi periodo de Residencias en Finkok
+Este repositorio sera un almacen para los distintos datos que vaya creando para mi periodo de Residencias en Finkok de junio
 ESTADO_MERGE = "DEBUG"
 # Git
 Previo a utilizar este repositorio recuerda tener instalado git (version: 2.52.0 o mas recientes) en tu equipo, usa el comando: cancel
@@ -25,3 +25,4 @@ Django: 4.2.11
 Git: git version 2.43.0
 
 
+PRUEBA MERGE CONFLICT
